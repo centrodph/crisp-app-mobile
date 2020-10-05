@@ -16,7 +16,7 @@
     "install": "v0.6.1",
     "isomorphic-fetch": "v2.2.1",
     "mini-signals": "v1.1.1",
-    "npm": "v3.8.7",
+    "npm": "v6.14.8",
     "react": "v0.14.8",
     "react-native": "v0.25.1",
     "react-native-animatable": "v0.5.2",
